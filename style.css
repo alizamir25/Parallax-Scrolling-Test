@@ -20,7 +20,6 @@
   --orange: #ee8122;
   accent-color: var(--green);
 }
-/* colors */
 .green{
   background-color: var(--green);
 }
@@ -176,7 +175,6 @@ p,
 li{
   max-width: 800px;
 }
-/* HEADER */
 header{
   position: fixed;
   top: 0px;
@@ -187,14 +185,12 @@ header{
   background-color: rgba(0, 0, 0, 0.5);
   will-change: transform;
 }
-/* HEADINGS */
 .header-section{
   padding: 0 15px;
   text-align: center;
   margin: 40vh auto 50vh;
 }
-/* SCROLL DOWN */
-.scroll-down{
+s.scroll-down{
   position: absolute;
   bottom: 30px;
   left: 50%;
