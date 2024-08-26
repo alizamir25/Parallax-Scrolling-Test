@@ -24,6 +24,5 @@ document.addEventListener('DOMContentLoaded',function(){
         end:'max',
         snap:1/(panels.length-1),
     });
-    // Toggle completed state after some condition, e.g., after a page load
     toggleCompleted(true);
 });
